@@ -7,4 +7,4 @@ This repository contains Group 4's Project 2, focused on vertical mixing shape p
 This repo contains a number of notebooks with many things we explored while working on this project. The notebook `data_story.ipynb` is self-contained and holds all the material we expect to be reviewed/graded.
 
 Contribution statement:
-CL, PB, BH, and AMF collaboratively designed the study. AMF drafted the outline of the data story and all team members added results from their section. AMF examined the correlation between four input features and the output shape profile based on different boundary layer depth intervals. *Make sure to add what you worked on here :)* 
+CL, PB, BH, and AMF collaboratively designed the study. AMF drafted the outline of the data story and all team members added results from their section. AMF examined the correlation between four input features and the output shape profile based on different boundary layer depth intervals. CL built the two level-by-level arvhitectures to improve performance of shape function prediction. *Make sure to add what you worked on here :)* 
